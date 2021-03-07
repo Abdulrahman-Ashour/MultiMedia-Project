@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/MultiMedia_Project_1/src/Arithmetic/ArithmeticCompress.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/RunLength/RunLengthDecompression.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/multimediaproject/Huffman/HuffmanDecompression.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/ShannonFano/ShannonDecompression.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/multimediaproject/Huffman/HuffmanTree.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/multimediaproject/Huffman/Huffman.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/Arithmetic/ArithematicTable.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/ShannonFano/ShannonFano.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/AdaptiveHuffman/Adaptive_huffman.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/VariableLength/VariableLength.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/Arithmetic/Arithmetic.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/LZW/LZWDecompress.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/VariableLength/VariableLengthTree.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/Start/Main.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/AdaptiveHuffman/Compression.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/VariableLength/VaribaleLengthDecompression.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/Arithmetic/Arithmatic_deCompression.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/RunLength/RunLengthCompression.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/LZW/Dictionary.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/ShannonFano/ShannonCompress.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/AdaptiveHuffman/AdaptiveTable.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/multimediaproject/Huffman/HuffmanNode.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/multimediaproject/Huffman/CodesTable.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/LZW/LZWCompress.java</file>
+            <file>file:/D:/MultiMedia_Project_1/src/VariableLength/VariableCode.java</file>
+        </group>
+    </open-files>
+</project-private>
